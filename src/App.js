@@ -21,8 +21,8 @@ function Header() {
           <div className="container header-container">
             <div className="header-left">
               <div className="logo-wrapper">
-                <img src={logoImg} alt="Kimoboy Studio" className="logo-img" />
-                <span className="studio-name">Kimoboy Studio</span>
+                <img src={logoImg} alt="Shin Keuk" className="logo-img" />
+                <span className="studio-name">Shin Keuk</span>
               </div>
             </div>
 
@@ -43,7 +43,7 @@ function HomePage() {
     {
       name: 'Budget Planner: Personal Budget',
       image: bannerApp,
-      link: 'https://play.google.com/store/apps/details?id=com.expense.smartmoney.fintech.moneycontrol'
+      link: 'https://play.google.com/store/apps/details?id=com.plantidentifier.smart.plantscanner.identify'
     }
   ];
 
@@ -52,8 +52,8 @@ function HomePage() {
       <section id="about" className="section about">
         <div className="container about-row">
           <div className="about-text-container">
-            <h2 className="highlight-title">Kimoboy Studio – Welcome Aboard</h2>
-            <p className="about-text">Kimoboy Studio is a forward-thinking mobile app studio committed to crafting innovative, dependable, and easy-to-use applications. Our mission is to blend creativity with functionality, delivering solutions that span across casual gaming, productivity, lifestyle, and education. Each app we develop is carefully designed with user experience in mind — offering intuitive navigation, thoughtful details, and practical value — to make everyday life simpler, smarter, and more enjoyable for users around the globe.
+            <h2 className="highlight-title">Shin Keuk – Welcome Aboard</h2>
+            <p className="about-text">Shin Keuk is a forward-thinking mobile app studio committed to crafting innovative, dependable, and easy-to-use applications. Our mission is to blend creativity with functionality, delivering solutions that span across casual gaming, productivity, lifestyle, and education. Each app we develop is carefully designed with user experience in mind — offering intuitive navigation, thoughtful details, and practical value — to make everyday life simpler, smarter, and more enjoyable for users around the globe.
             </p>
           </div>
           <div className="about-img-container">
@@ -112,7 +112,7 @@ function App() {
         </Routes>
         <footer className="footer">
           <div className="container text-center">
-            <p>&copy; {new Date().getFullYear()} Kimoboy Studio. All rights reserved.</p>
+            <p>&copy; {new Date().getFullYear()} Shin Keuk. All rights reserved.</p>
           </div>
         </footer>
       </div>
