@@ -87,13 +87,12 @@ function HomePage() {
           <h2>Contact Us</h2>
           <p>
             If you have any questions about this Privacy Policy, request support, please contact us at:<br />
-            <a href="mailto: kimoboygame@gmail.com"> kimoboygame@gmail.com</a><br />
+            <a href="mailto: mapelindashinhara@gmail.com"> mapelindashinhara@gmail.com</a><br />
             <span style={{ display: 'inline-block', marginTop: '10px' }}>
-              🏠 ADROP.AI LIMITED
-                Flat 1
-                24 Montem Road
-                NEW MALDEN - KT3 3QW
-                United Kingdom (GB)
+              🏠 Shin Keuk
+                Xom Hop Nhat, Muong Dong, Phu Tho
+                Phu Tho - 290000
+                Vietnam (VN)
             </span>
           </p>
         </div>
